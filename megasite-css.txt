@@ -1,0 +1,103 @@
+font ul li {
+    font-size: 14px !important;
+}
+
+p.MsoNormal span {
+    font-size: 17px !important;
+}
+
+font center a {
+    font-size: 13px !important;
+}
+
+font font hr {
+    font-size: 9px !important;
+}
+
+center font hr {
+    font-size: 9px !important;
+}
+
+p font font {
+    font-size: 25px !important;
+}
+
+tbody tr td {
+    font-size: 15px !important;
+}
+
+a font center {
+    font-size: 25px !important;
+}
+
+td a font {
+    font-size: 25px !important;
+}
+
+font center center {
+    font-size: 12px !important;
+}
+
+a h1 center {
+    font-size: 20px !important;
+}
+
+a h2 center {
+    font-size: 15px !important;
+}
+
+center b font {
+    font-size: 20px !important;
+}
+
+font font center {
+    font-size: 15px !important;
+}
+
+td center center {
+    font-size: 22px !important;
+}
+
+center font b {
+    font-size: 15px !important;
+}
+
+font center b {
+    font-size: 15px !important;
+}
+
+center font center {
+    font-size: 20px !important;
+}
+
+font font font {
+    font-size: 14px !important;
+}
+
+center font a {
+    font-size: 13px !important;
+}
+
+font center font {
+    font-size: 18px !important;
+}
+
+a center font {
+    font-size: 18px !important;
+}
+
+center center font {
+    font-size: 16px !important;
+}
+
+font font a {
+    font-size: 17px !important;
+}
+
+tr td table {
+    margin-left: -75px !important;
+}
+
+font a font {
+    font-size: 25px !important;
+}
