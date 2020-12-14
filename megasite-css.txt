@@ -82,16 +82,8 @@ font center font {
     font-size: 20px !important;
 }
 
-a center font {
-    font-size: 18px !important;
-}
-
 center center font {
     font-size: 16px !important;
-}
-
-font font a {
-    font-size: 17px !important;
 }
 
 tr td table {
@@ -102,6 +94,23 @@ center a font {
     font-size: 15px !important;
 }
 
+a center font {
+    font-size: 20px !important;
+}
+
+td font a {
+    font-size: 12px !important;
+}
+
+tr td font {
+    font-size: 12px !important;
+}
+
+font font a {
+    font-size: 15px !important;
+}
+
 font a font {
     font-size: 25px !important;
 }
+
