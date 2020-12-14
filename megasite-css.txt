@@ -79,7 +79,7 @@ center font a {
 }
 
 font center font {
-    font-size: 18px !important;
+    font-size: 20px !important;
 }
 
 a center font {
@@ -95,7 +95,11 @@ font font a {
 }
 
 tr td table {
-    margin-left: -75px !important;
+    margin-left: -45px !important;
+}
+
+center a font {
+    font-size: 15px !important;
 }
 
 font a font {
